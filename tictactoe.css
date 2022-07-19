@@ -1,0 +1,32 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+body{
+    background-color: gray;
+}
+
+#container{
+    text-align: center;
+    font-family: Arial, cursive;
+    font-size: 80px;
+}
+
+table{
+    border: 6px black solid;
+    border-radius: 10px;
+}
+
+td{
+    height: 160px;
+    width: 160px;
+    border: 4px black solid;
+    background-color: white;
+}
+td:hover{
+    background-color: red;
+    cursor: pointer;
+}
+.text-center{
+    text-align: center;
+}
