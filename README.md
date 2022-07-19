@@ -21,7 +21,7 @@ Children, friends and families can play Tic-Tac-Toe.
 - Multiple rounds to play - a round must begin, end, and there must be a way to check if the game should continue or the overall game is won or lost
 ## Authors
 
-- [@tiariouspreston](https://www.github.com/SimpleGame)
+- [@tiariouspreston](https://github.com/tpreston06/SimpleGame.github.io.git)
 
 
 ## Features
