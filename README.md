@@ -22,7 +22,7 @@ Children, friends and families can play Tic-Tac-Toe.
 ## Authors
 
 - [@tiariouspreston](https://github.com/tpreston06/SimpleGame.github.io.git)
-
+- https://tpreston06.github.io/SimpleGame.github.io/
 
 ## Features
 
